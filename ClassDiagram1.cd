@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Ogrenci_kayıt_otomasyon.Adres">
+    <Position X="2" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAIAAAAAAAAAAAAIAAAAAAAAEEACAAAAAAAAEAAg=</HashCode>
+      <FileName>Adres.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Ogrenci_kayıt_otomasyon.Ogrenci">
+    <Position X="5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAECAAAAAAAAAIAgAAAAAAAAAAAAAAAAAQAAAAAGgAA=</HashCode>
+      <FileName>Ogrenci.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
